@@ -2,7 +2,7 @@
 
 we need to install the MYSQL database on kubernetes using kubernetes artifact files i.e 
 
-mysql-deployment.yaml =>
+mysql-deployment.yaml 
 
 mysql-configmap.yaml => Store host & port in configmap
 
