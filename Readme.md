@@ -41,6 +41,8 @@ kubectl get pods --watch
 
 NAME                        READY   STATUS    RESTARTS   AGE
 mysql-db-7d8f7889fc-j8shj   0/1     Pending   0          84s
+
+
 ![Screenshot](https://user-images.githubusercontent.com/86924458/152532153-5970e8af-0aa2-4171-89d8-97edf66c969e.png)
 
 
